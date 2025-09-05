@@ -70,7 +70,7 @@ distilbert-resume-classifier/
 
 ## 👩‍💻 Author  
 
-**Harika Lankalapally**  
+**Shiva Sai Pulluri**  
 📍 Fort Worth, Texas  
 📧 pullurishivasai@gmail.com  
 
