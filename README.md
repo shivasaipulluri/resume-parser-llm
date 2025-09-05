@@ -1,7 +1,7 @@
-# 📂 DistilBERT Resume Classifier  
+# 📂 Resume Parsing Using An LLM 
 
 ## 📌 Project Summary  
-The **DistilBERT Resume Classifier** is a machine learning project that automates **resume parsing, segmentation, and classification** using transformer-based NLP models.  
+The **Resume Parser LLM** is a machine learning project that automates **resume parsing, segmentation, and classification** using transformer-based NLP models.  
 
 The pipeline extracts resume text (from `.docx`), processes it into structured JSON, and trains a classifier to categorize resume segments (education, skills, projects, experience, etc.).  
 
@@ -78,5 +78,3 @@ distilbert-resume-classifier/
 *The University of Texas at Arlington (2023–2025)*  
 
 ---
-
-✨ *This repository highlights strong skills in machine learning, NLP, and data science, while showcasing the ability to deliver complete, production-ready AI pipelines.*  
