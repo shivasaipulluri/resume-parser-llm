@@ -1,0 +1,63 @@
+Harika Lankalapally
+1008 W Mitchell St, Apt 232, Arlington, Texas 76013
++1-512-284-4533 harikalankalapally@gmail.com
+Professional Summary
+Graduate student in Computer Science passionate about leveraging data science to optimize user engagement and long-term
+value (LTV) modeling. Experienced in Python, SQL, and machine learning techniques for predictive modeling, deep learning, and A/B testing. Proficient in cleaning large-scale datasets, designing experiments, and building interactive dashboards
+in Power BI and Tableau. Strong collaborator with experience supporting data-driven decision-making in cross-functional
+teams.
+Education
+Campbellsville University 2023 - 2025
+Master of Science, Computer Science
+• Coursework: Data Visualization, Database Management, Statistical Analysis, Machine Learning
+CVR College of Engineering 2019 - 2023
+Bachelor of Technology, Computer Science
+• Coursework: Data Structures and Algorithms, Database Management Systems (DBMS), Object-Oriented Programming (OOP),
+Introduction to Cloud Computing, Operating Systems, Web Technologies (HTML, CSS, JavaScript)
+Professional Experience
+Pioneer Modular Seating Present
+Data Science Intern Hyderabad
+• Processed and cleaned large-scale transactional data, ensuring 99% data accuracy for predictive modeling and trend analysis.
+• Designed SQL-based data pipelines and applied machine learning models to analyze user behavior trends. Developed Power BI
+dashboards to visualize insights, reducing manual analysis by 40%.
+• Worked cross-functionally with engineering and product teams to optimize A/B testing strategies for demand forecasting. Developed
+automated dashboards to track test performance, improving decision-making speed by 30%.
+Projects
+Exploratory Data Analysis on Financial Dataset Feb 2024 - Mar 2024
+(Academic Project)
+• Conducted exploratory data analysis (EDA) on a financial dataset using Python to identify trends, detect anomalies, and analyze
+correlations between variables.
+• Created visualizations in Power BI and Tableau to effectively represent key financial metrics and performance indicators.
+• Provided a clear summary of findings, enabling better understanding of the data and supporting informed decision-making for academic
+case studies.
+• Focused on data cleaning and preprocessing to ensure accuracy and reliability of analysis.
+Data-Driven Library Management System Feb 2022 - Mar 2022
+• Designed a Java-based system managing a database of 50,000+ book records, using SQL for seamless CRUD operations with
+sub-second response times.
+• Developed analytical features to generate monthly usage reports, improving data accessibility and reducing manual effort by 30%.
+• Enhanced user experience with dynamic book search and personalized recommendations.
+Interactive Tourist Platform Nov 2021 - Dec 2021
+• Created a responsive tourism website using HTML, CSS, and Bootstrap, offering real-time updates for 500+ travel packages and 1500+
+destinations.
+• Incorporated data-driven insights for personalized itineraries, increasing customer satisfaction by 15%.
+• Boosted user engagement by 40% through an intuitive interface and dynamic search functionality.
+Sales Performance Prediction Model
+• Built a machine learning model in Python to predict user retention using regression and deep learning techniques. Processed 100,000+
+records to improve forecasting accuracy by 20%, reducing churn risk.
+• Cleaned and reprocessed a dataset of 10,000+ records to ensure accuracy and completeness.
+• Delivered findings through Power BI dashboards, improving understanding of sales drivers for mock business scenarios.
+SKILLS
+• Programming & Analytics: Python, SQL, R, Excel, Data Analysis
+• Machine Learning & Statistical Methods: Supervised Learning, Regression Analysis, Clustering, Time-Series Analysis, Machine Learning, Statistical Modeling
+• Data Visualization: Power BI, Tableau, Matplotlib, Seaborn, Think-Cell
+• Soft Skills: Communication, Collaboration, Adaptability, Problem-Solving, Business English
+• Other: Data Cleaning, Preprocessing, EDA, Dashboard Creation
+Key Achievements
+• Sales Prediction Model Achievement: Developed a regression-based sales prediction model, achieving 92% accuracy in a
+simulated academic project.
+• Library Management System Efficiency Improvement: Improved data querying efficiency by 30% in a library management
+system project.
+• Customer Financial Data EDA: Conducted EDA on customer financial data, uncovering patterns that informed case study
+decisions.
+• Power BI Dashboard Insights: Delivered insights via Power BI dashboards that simplified understanding of data for non-technical
+stakeholders.

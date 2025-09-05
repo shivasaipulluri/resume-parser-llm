@@ -1,0 +1,39 @@
+{
+  "header": {
+    "name": "Srinivas",
+    "email": "Srinivasjava04@gmail.com",
+    "phone": "315-221-3723",
+    "linkedin": "",
+    "address": "",
+    "website": ""
+  },
+  "summary": "OBJECTIVE:\nTechnically skilled and qualified Java programmer looking for a position of a Full Stack Java Programmer to utilize my proficiency and skills in creating best interactive websites.",
+  "experience": [
+    {
+      "company": "",
+      "job_title": "",
+      "start_date": "",
+      "end_date": "",
+      "responsibilities": []
+    },
+    {
+      "company": "",
+      "job_title": "",
+      "start_date": "",
+      "end_date": "",
+      "responsibilities": []
+    }
+  ],
+  "education": [],
+  "skills": [
+    "TECHNICAL SKILLS:"
+  ],
+  "projects": [],
+  "certifications": [],
+  "achievements": [],
+  "organizations": [],
+  "hobbies": [],
+  "miscellaneous": {
+    "Responsibilities": "Created user-friendly GUI interface and Web pages using HTML, CSS and JSP.\nInvolved in development, testing and implementation of the complete business solution.\nUsed Java Servlets extensively and using JDBC for database access.\nDesigned and developed user interfaces using JSP, JavaScript and XHTML.\nUsed various J2EE design patterns like Singleton, Command Pattern for the implementation of the application.\nDesigned, coded and configured server side J2EE components like JSP, Servlets, JavaBeans, JDBC, JNDI, JTS, Java Mail API, XML.\nInvolved in database design and developed SQL Queries on MySQL.\nConfigured the product for different application servers.\nInvolved in client side validations using JavaScript.\nUsed Swing Layout managers and Swing components for creating desktop application.\nEnvironment: Java, JDBC, Servlets, Struts, JSP, Hibernate, Java Mail API, AJAX, HTML, XML, ANT, Log4J, CVS, Eclipse, Putty, MySQL, Apache Tomcat Server."
+  }
+}
